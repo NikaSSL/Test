@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <span>biu biu</span>
+    <span>关联到test分支？</span>
     <router-view/>
   </div>
 </template>
