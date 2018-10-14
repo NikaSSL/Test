@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <span>just for some test！</span>
+    <span>出现冲突吧</span>
     <router-view/>
   </div>
 </template>
