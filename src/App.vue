@@ -1,6 +1,10 @@
 <template>
   <div id="app">
+<<<<<<< HEAD
     <span>呐呐</span>
+=======
+    <span>div 1</span>
+>>>>>>> 140844b17f7cb18a50677ff4d1bf2c30c190f20a
     <router-view/>
   </div>
 </template>
