@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <span>new branch</span>
+    <span>this is SPAN2</span>
     <router-view/>
   </div>
 </template>
